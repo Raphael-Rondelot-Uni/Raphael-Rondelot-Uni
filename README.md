@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Raphael! 👋
 
-<!--
-**Raphael-Rondelot-Uni/Raphael-Rondelot-Uni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner Image]("C:\Users\rapha\OneDrive\Pictures\Raph professional pic.jpg")
 
-Here are some ideas to get you started:
+## About Me 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate **[MSc Finanace and Financial Technology Student at Henley Business School]** with experience in **[Python, Bloomberg Terminal, Eikon API, Excel]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+
+- 🌱 Currently learning: **[Python, AI, ML]**
+- 🔭 Working on: **[Blockchain + Cryptocurrencies, AI + ML, Insurance + Big Data, Investment Portfolio Management]**
+- 🌍 Languages: **[Python, English, French]**
+- 📫 How to reach me: **[bn833979@student.reading.ac.uk]**
+- ⚡ Fun fact: **[I love exercising, the outdoors, cooking, reading, and learning new things]**
+
+## Get in Touch 📬
+
+- **[LinkedIn]**(https://www.linkedin.com/in/raphaelrondelot/)
+
+

@@ -1,7 +1,5 @@
 # Hi there, I'm Raphael! 👋
 
-![Banner Image]("C:\Users\rapha\OneDrive\Pictures\Raph professional pic.jpg")
-
 ## About Me 🚀
 
 I'm a passionate **[MSc Finanace and Financial Technology Student at Henley Business School]** with experience in **[Python, Bloomberg Terminal, Eikon API, Excel]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
